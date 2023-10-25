@@ -36,6 +36,7 @@ This is the New York taxi data engineering project! In this project, I aim to cr
 ## Architecture
 ## ETL Pipeline
 ## Dashboard
+images/Trips_analysis_years_2019.pdf
 ## Reproduciblity 
 
 * cd to terraform run the commands below.
