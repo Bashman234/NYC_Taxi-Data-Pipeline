@@ -29,7 +29,7 @@ This is the New York taxi data engineering project! In this project, I aim to cr
 ## Data Source 
 
 | Data Set | Format | Description |
-| ---      | ---    | ---         |
+| --------     | --------    | ---         |
 |[TLC Trip Record Data](https://travel.trade.gov/research/reports/i94/historical/2016.html)| Parquet | Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts. The data used in the attached datasets were collected and provided to the NYC Taxi and Limousine Commission (TLC) by technology providers authorized under the Taxicab & Livery Passenger Enhancement Programs (TPEP/LPEP).
 |[Taxi Zone Maps and Lookup Tables](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)| CSV | This dataset contains dimension information about the trip records that are being collected. The data used in the attached datasets were collected and provided to the NYC Taxi and Limousine Commission (TLC) by technology providers authorized under the Taxicab & Livery Passenger Enhancement Programs (TPEP/LPEP).|
 
