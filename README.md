@@ -34,7 +34,7 @@ This is the New York taxi data engineering project! In this project, I aim to cr
 |[Taxi Zone Maps and Lookup Tables](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)| CSV | This dataset contains dimension information about the trip records that are being collected. The data used in the attached datasets were collected and provided to the NYC Taxi and Limousine Commission (TLC) by technology providers authorized under the Taxicab & Livery Passenger Enhancement Programs (TPEP/LPEP).|
 
 ## Architecture
-![images](https://github.com/Bashman234/NYC_Taxi-Data-Pipeline/blob/main/images/Screenshot%202023-10-25%20at%2015.42.58.png)
+![images](https://github.com/Bashman234/NYC_Taxi-Data-Pipeline/blob/main/images/Screenshot%202023-10-25%20at%2015.45.32.png)
 ## ETL Pipeline
 ## Dashboard
 ![images](https://github.com/Bashman234/NYC_Taxi-Data-Pipeline/blob/main/images/Screenshot%202023-10-25%20at%2015.10.21.png)
